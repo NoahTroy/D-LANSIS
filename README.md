@@ -4,7 +4,7 @@ Distribted Local Area Network Sign In System
 ### About
  D-LANSIS (pronounced "DEE-LANsihs") is an open source project developed by Noah Troy, with the aim of giving organizations (such as schools, workplaces, etc.) the ability to run and maintain simple, inexpensive, and secure sign-in and accountability systems.
 
-###Project Goals
+### Project Goals
 - Create a system as inexpensive and independent as possible, eliminating the need for nonprofit and educational organizations to have to pay large amounts of money to big companies, in order to receive simple, yet necessary software.
 - Keep the code extremely lightweight, allowing it to be easily run from a myriad of systems, including any old or extra technology lying around, or something as inexpensive as a ($35) [raspberry pi](https://www.raspberrypi.org/ "raspberry pi").
 - Write all of the source code in an open-source, highly commented, and easily readable format, making it easier for any organization (or student) to modify, improve, or change the code to fit their needs.
@@ -12,7 +12,7 @@ Distribted Local Area Network Sign In System
 - Maintain an extremely high level of security and data protection, using many different tested and open-source resources.
 - Make the entire system completely decentralized, thereby limiting server costs, and providing redundency.
 ------------
-###Installation Instructions
+### Installation Instructions
 ###### Please Note: This Software Is Currently Under Development, And Not Ready For Official Use Yet. Please Do Not Try To Install This Software Until The All-Clear Is Given. For The Latest Updates On Its Development, Feel Free To Bookmark This Page And Check Back As Often As You Like.
  1. Pick your target intallation device. We recommend a device with ***at least***:
   * A dual-core 1Ghz processor
